@@ -13,16 +13,15 @@ sidebar:
 
     # Sidebar links
     email: jseybert.dev@gmail.com
-    phone: (317)605-5514
+    phone: (317) 605-5514
     timezone: Eastern Daylight Time (GMT-4)
     citizenship: American
     website: jacobtseybert.com #do not add http://
-    linkedin: linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BLqJF4JcoRyuLIunXAWF7Cw%3D%3D
+    linkedin: Jacob Seybert #make sure it works
     github: JacobTSeybert
-    twitter: '@wJacobCybert'
+    twitter: '@JacobCybert'
     stack-overflow: Its-Cybert
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://www.africau.edu/images/default/sample.pdf #change to a pdf of your resume
 
     languages:
       title: Languages
