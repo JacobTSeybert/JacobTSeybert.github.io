@@ -4,7 +4,7 @@
 
 # Orbit
 > This repo is created and used by Jacob Seybert with the theme created by Xiaoying Riley. 
-> Visit me [website](https://JacobtSeybert.com/) 
+> Visit me at my [website](https://JacobtSeybert.com/) here.
 
 I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
 
@@ -44,7 +44,7 @@ Changes *_data/data.yml* will be visible after a while.
 
 * Get the repo into your machine 
 ```bash
-git clone https://github.com/JacobTSeybert/JacobTSeybert.github.io.git
+git clone https://github.com/JacobTSeybert/JacobTSeybert.github.io
 ```
 * Install required ruby gems
 ```bash
