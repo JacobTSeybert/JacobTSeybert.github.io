@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Jacob Seybert
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Cybersecurity Engineer
+    avatar: profilePic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jseybert.dev@gmail.com
@@ -29,20 +29,17 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Burmese (Matu)
+          level: Moderate
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Card Collecting
           link:
 
-        - item: Snowboarding
-          link:
+        - item: Weightlifting (Link will take you to Arnold Schwarzenegger Daily Pump Club Page)
+          link: https://schwarzenegger.ck.page/0943ca5e13
 
         - item: Cooking
           link:
@@ -59,26 +56,25 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelors in Computer Science
+        university: Indiana University Purdue University Indianapolis (IUPUI)
+        time: 2018 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Was educated and trained on the basics to advanced levels of computer programming. Was taught 
+          the basics of multiple languages that span from C++, C#, Java, JavaScipt, HTML, CSS, Datalog, Python,
+          PhP and many more. Learned common syntax for these languages as well as fully executed writing
+          running, and debugging code. Some of my more interesting projects were Biometrics, creating a 
+          working Face ID scanner, and a Machine learning Program to dictate what Author's writting style an
+          individual most similarly compares to. 
+            - Worked with machine learning programming 
+            - Moderate to advanced knowledge of multiple programming languages. 
+      - degree: Minor in Classical Studies
+        university: Indiana University Purdue University Indianapolis (IUPUI)
+        time: 2018 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Educated and trained on the ways of the Ancient world. A focus on Greek and Roman Mythology
+          including how the common people would live their day to day lives. Learned about ancient pottery
+          techniques, war strategy, religion and worship...
             - Bullet point
             - Bullet point
 experiences:
