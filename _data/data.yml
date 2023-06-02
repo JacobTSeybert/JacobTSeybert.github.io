@@ -36,23 +36,18 @@ sidebar:
       title: Interests
       info:
         - item: Card Collecting
-          link:
+          link: https://www.tcgplayer.com/?utm_campaign=15619981333&utm_source=google&utm_medium=cpc&utm_content=572558461618&utm_term=tcg&adgroupid=131377204276&gclid=CjwKCAjwpuajBhBpEiwA_ZtfheUBuLmMu_FI-EQarO9te-HM-MY3oqGampuVsWglKFsTM3YFzv9BbhoCDDAQAvD_BwE
 
-        - item: Weightlifting (Link will take you to Arnold Schwarzenegger Daily Pump Club Page)
+        - item: Weightlifting
           link: https://schwarzenegger.ck.page/0943ca5e13
 
         - item: Cooking
-          link:
+          link: https://www.joshuaweissman.com/book
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently work for Allison Transmission as a product cybersecurity engineer. With a primary focus on TCM (Transmission Control module) for medium to heavy duty on and off highway vehicles. 
 education:
     title: Education
     info:
