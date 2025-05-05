@@ -47,23 +47,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Product Cybersecurity Engineer at Allison Transmission, focused on securing embedded systems such as TCMs, PBSS, digital connectivity devices for medium and heavy duty on-and-off highway vehicles.
+      Product Cybersecurity Engineer at Allison Transmission, focused on securing embedded systems such as TCMs, PBSS, and digital connectivity devices for medium and heavy-duty on-and-off highway vehicles.
        Responsible for regulatory compliance (UN R155/R156), supporting defense programs, leading threat assessments, and mentoring new team members in secure product development.
 education:
     title: Education
     info:
-      - degree: Bachelors in Computer Science
+      - degree: Bachelor's in Computer Science
         university: Indiana University Purdue University Indianapolis (IUPUI)
         time: 2018 - 2022
         details: |
-          Was educated and trained on the basics to advanced levels of computer programming. Was taught 
-          the basics of multiple languages that span from C++, C#, Java, JavaScipt, HTML, CSS, Datalog, Python,
-          PhP and many more. Learned common syntax for these languages as well as fully executed writing
-          running, and debugging code. Some of my more interesting projects were Biometrics, creating a 
-          working Face ID scanner, and a Machine learning Program to dictate what Author's writting style an
-          individual most similarly compares to. 
-            - Worked with machine learning programming 
-            - Moderate to advanced knowledge of multiple programming languages. 
+          Gained hands-on experience with software development, object-oriented programming, and debugging 
+          across multiple languages, including C++, C#, Java, JavaScript, Python, HTML5/CSS, PHP, and more. 
+          Worked on applied projects such as a functional Face ID scanner using biometric data and a machine 
+          learning tool to analyze and compare authors’ writing styles.
+
+          Proficient in writing, testing, and debugging code; comfortable working in command-line environments 
+          and applying common development practices. Experienced in machine learning applications and 
+          mid-to-advanced-level programming in multiple languages.
+
+Proficient in writing, testing, and debugging code; comfortable working in command-line environments and applying common development practices. Experienced in machine learning applications and mid-to-advanced-level programming in multiple languages.
+ 
       - degree: Minor in Classical Studies
         university: Indiana University Purdue University Indianapolis (IUPUI)
         time: 2018 - 2022
@@ -140,46 +143,29 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#oss: #List something else here if you think of anything
+    #title: OSS Contributions
+    #intro: >
+      #You can list your open source software contributions in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+   # contributions:
+      #- title: Tempo
+        #link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#publications:  #Maybe replace publications with something else if you think of something?
+    #title: Publications
+    #intro: |
+      #You can list your publications in this section. Lorem ipsum dolor sit
+      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      #bibendum fringilla a eu lectus.
+    #papers:
+      #- title: The Art of Computer Programming
+        #link: "#"
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
@@ -189,16 +175,19 @@ skills:
         level: 98%
 
       - name: Javascript & jQuery
-        level: 95%
-
-      - name: C++
-        level: 85%
+        level: 98%
 
       - name: Python
+        level: 90%
+
+      - name: C++
+        level: 90%
+
+      - name: Java
         level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux & Command-Line
+        level: 75%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Jacob Seybert © 2025 All Rights Reserved</a>
