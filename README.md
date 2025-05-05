@@ -4,7 +4,7 @@
 
 # Orbit
 > This repo is created and used by Jacob Seybert with the theme created by Xiaoying Riley. 
-> Visit me at my [website](https://JacobtSeybert.com/) here.
+> Visit me at my [website](https://JTSeybert.com/) here.
 
 I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
 
