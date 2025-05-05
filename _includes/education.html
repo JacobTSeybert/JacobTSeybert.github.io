@@ -42,7 +42,7 @@
 
       {% if graduation.details %}
       <div class="details">
-        <p>{{ graduation.details }}</p>
+        {{ graduation.details | markdownify }}
       </div><!--//details-->
       {% endif %}
 
