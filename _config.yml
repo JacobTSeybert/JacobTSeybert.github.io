@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Jacob Seybert
-url: 'http://webjeda.com'
+#url: 'http://webjeda.com'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
@@ -14,7 +14,7 @@ theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: d3d3d3 #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Sass/SCSS
 sass:

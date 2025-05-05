@@ -16,7 +16,7 @@ sidebar:
     phone: (317) 605-5514
     timezone: Eastern Daylight Time (GMT-4)
     citizenship: American
-    website: jacobtseybert.com #do not add http://
+    website: jtseybert.com #do not add http://
     linkedin: Jacob Seybert #make sure it works
     github: JacobTSeybert
     twitter: '@JacobCybert'
@@ -35,7 +35,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Wood Working
+        - item: Woodworking
           link: https://www.woodmagazine.com/woodworking-how-to
 
         - item: Weightlifting
@@ -47,7 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently work for Allison Transmission as a product cybersecurity engineer. With a primary focus on TCM (Transmission Control module) for medium to heavy duty on and off highway vehicles. 
+      Product Cybersecurity Engineer at Allison Transmission, focused on securing embedded systems such as TCMs, PBSS, digital connectivity devices for medium and heavy duty on-and-off highway vehicles.
+       Responsible for regulatory compliance (UN R155/R156), supporting defense programs, leading threat assessments, and mentoring new team members in secure product development.
 education:
     title: Education
     info:
@@ -184,20 +185,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: HTML5 & CSS
         level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: C++
         level: 85%
+
+      - name: Python
+        level: 80%
 
       - name: Sketch & Photoshop
         level: 60%
